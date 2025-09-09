@@ -35,3 +35,5 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 11. All of the "madlibs" style placeholders should be replaced when you are done with 6 total commits, some formatting changes, and some git markdown.
 
 ### THIS IS MARKDOWN!!!!
+
+[I'm an inline-style link to the website](https://konstantinnovation.github.io)
